@@ -1,0 +1,41 @@
+#titles{
+    font-size: 10rem;
+    height: 92vh;
+    text-align: center;
+    /* font-family: 'Noto Serif', serif;
+     */
+     font-family: 'Tourney', cursive;
+   background-image: url("https://source.unsplash.com/1600x900/?travel,travelling");
+   opacity: 0.9;
+   
+}
+.title{
+position: relative;
+top: 30%;
+padding: 8px;
+}
+
+
+.btn{
+    font-size: 1.1rem;
+    margin: 5px ;
+    padding: 5px;
+    font-family: 'Noto Serif', serif;
+    opacity: 0.8;
+    position: relative;
+    top: 12%;
+
+    border: 2px solid black;
+    border-radius: 5px;
+    color: white;
+    background: black;
+
+
+}
+.btn:hover{
+    color: rgb(122, 110, 110);
+}
+
+#register{
+    padding: 70px;
+}
